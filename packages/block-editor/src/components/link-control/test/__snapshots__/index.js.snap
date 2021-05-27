@@ -89,11 +89,14 @@ exports[`Rich link previews should display a rich preview when data is available
   <div
     class="block-editor-link-control__search-item-bottom"
   >
-    <img
-      alt=""
+    <div
       class="block-editor-link-control__search-item-image"
-      src="https://s.w.org/images/home/screen-themes.png?3"
-    />
+    >
+      <img
+        alt=""
+        src="https://s.w.org/images/home/screen-themes.png?3"
+      />
+    </div>
     <span
       class="components-truncate components-text block-editor-link-control__search-item-description emotion-2 emotion-3 emotion-4"
       data-wp-c16t="true"
